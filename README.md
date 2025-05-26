@@ -72,7 +72,7 @@ From your command line, clone and run developerFolio:
 
 ```bash
 # Clone this repository
-git clone https://github.com/saadpasta/developerFolio.git
+git clone https://github.com/TonyRice9/developerFolio.git
 
 # Go into the repository
 cd developerFolio
@@ -155,18 +155,17 @@ Set `displayMediumBlogs` to true or false in portofolio.js to display fetched Me
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  title: "Hi all I'm Saad",
-  subTitle: emoji("A passionate Full Stack Software Developer 🚀"),
+  title: "Hi all I'm Tony",
+  subTitle: emoji("A passionate Full Stack Software Engineer 🚀"),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7"
+  github: "https://github.com/TonyRice",
+  linkedin: "https://www.linkedin.com/in/IAmTonyRice/",
+  gmail: "tony@tonyrice.me",
+  gitlab: "https://gitlab.com/TonyRie"
 };
 
 
@@ -267,6 +266,14 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 - Add More Sections
 
 ## Project Maintainers 
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/TonyRice"><img src="https://avatars.githubusercontent.com/u/1211376?v=4" width="100px;" alt=""/><br /><sub><b>Tony Rice</b></sub></a></td>
+  </tr>
+</table>
+
+## Original Project Maintainers 
 
 <table>
   <tr>
